@@ -11,3 +11,4 @@ second line
 - Файлы локального переопределения ресурсов override.tf  override.tf.json   *_override.tf   *_override.tf.json
 - Файлы с информацией о временной блокировке .terraform.tfstate.lock.info
 - Файлы конфигурации CLI с расширениями .terraformrc и terraform.rc
+# test line
